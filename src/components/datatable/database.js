@@ -7,6 +7,7 @@
                 <img  className="cellImag"  src={parms.row.img} alt=" avater"/>
                 {parms.row.username}
             </div>
+            
         )
     }
     },
