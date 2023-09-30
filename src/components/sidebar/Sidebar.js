@@ -26,7 +26,7 @@ const Sidebar = () => {
             <span  className='logo'> Madina </span>
             </Link>
           
-           
+
         </div>
         <hr/>
         <div  className='center'>
